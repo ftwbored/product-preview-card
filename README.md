@@ -48,7 +48,8 @@ Users should be able to:
 
 ### What I learned
 
-Incorporated flexbox and is abit more farmiliarized with it now (I Guess?)
+- Incorporated flexbox and is abit more farmiliarized with it now (I Guess?)
+- learned how to size images for responsiveness
 
 ### Continued development
 
