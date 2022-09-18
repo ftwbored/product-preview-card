@@ -71,6 +71,10 @@ h1 {
   gap: 6px;
 }
 
+.add-to-cart:active {
+  background: hsl(159, 49%, 21%);
+}
+
 .text-section {
   margin: 0 auto;
   width: 215px;
