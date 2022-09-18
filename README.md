@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/ftwbored/product-preview-card)
-- Live Site URL: [Live site URL](https://github.io/ftwbored/product-preview-card/)
+- Live Site URL: [Live site URL](https://ftwbored.github.io/product-preview-card/)
 
 ## My process
 
